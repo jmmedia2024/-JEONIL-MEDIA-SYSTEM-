@@ -1,0 +1,6 @@
+{
+  "name": "전일미디어 견적서 발행 시스템",
+  "description": "전일미디어의 전문 미디어/영상 제작, 인쇄/디자인 견적서를 쉽고 신속하게 작성, 관리, 인쇄할 수 있는 전문 견적서 발행 솔루션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
